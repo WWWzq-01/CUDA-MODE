@@ -2,3 +2,8 @@
 data/
 __pycache__/
 
+lecture_001/logs/
+lecture_001/*.ncu-rep
+lecture_001/*.csv
+lecture_001/*.png
+lecture_001/*.html
